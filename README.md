@@ -24,7 +24,7 @@ Hasil akhir dikategorikan menjadi:
 - [x] For Loop  
 - [x] Nesting If  
 - [ ] While Loop  
-- [ ] Do-While Pattern  
+
 
 ## Screenshot Output  
  ![alt text](<img width="731" height="323" alt="Screenshot 2025-11-10 061949" src="https://github.com/user-attachments/assets/21124fbe-9379-4618-8a0c-d629a6f554e8" />
